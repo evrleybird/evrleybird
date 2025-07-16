@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evrleybird
-- 👀 I’m interested in sports data analytics and APIs.
+- 👀 I’m interested in sports data analytics.
 - 🌱 I’m currently learning Python, Node.JS and SQL.
-- 💞️ I’m looking to collaborate on sports data projects.
+- 💞️ I’m looking to collaborate on sports data and MLB Statcast projects.
 - 📫 How to reach me -> liamearley022@gmail.com with "GITHUB" in the subject line.
 
 <!---
